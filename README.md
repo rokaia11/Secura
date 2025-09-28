@@ -27,7 +27,10 @@ The program:
 
 These files will be generated automatically upon running and using the program
 
-![Files](files.png)
+- biometric_scanner_db.key
+- database.enc
+- Database.json
+- Logs.txt
 
 ### Biometric Scanner Instructions
 
